@@ -2,7 +2,7 @@
 <p align="center">A ETEC Maria Cristina Medeiros student | Studying Software Dev.</p>
 
 ```javascript
-function Hello(){
+function Hello() {
 	console.log("Hello everybody!");
 }
 ```
