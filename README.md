@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, my name is Henrique Lima</h1>
+<p align="center">A ETEC Maria Cristina Medeiros student | Studying Software Dev.</p>
 
-<!--
-**henriqlimac/henriqlimac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+function Hello(){
+	console.log("Hello everybody!");
+}
+```
 
-Here are some ideas to get you started:
+<h2 align="left">What I'm Learning?</h2>
+<p align="left">Currently learning <code>React</code>, <code>JS</code> and <code>TS</code>/<code>TSX</code>.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Main Languages</h2>
+<p align="left">
+  <img width="30px" style="padding-right:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</p>
+<li><code>HTML</code></li>
+<li><code>CSS</code></li>
+<li><code>JavaScript</code></li>
+<li><code>TypeScript</code></li>
+<p>At the moment I'm 100% front-end "developer", but I intend to work with back-end too.</p>
+
+<h2 align="left">What I'm Looking For?</h2>
+<p>I'm looking for a sucessful career in the future, working with a full-stack position creating sites and applications.</p>
