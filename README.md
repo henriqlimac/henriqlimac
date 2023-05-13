@@ -10,17 +10,16 @@ function Hello() {
 <h2 align="left">What I'm Learning?</h2>
 <p align="left">Currently learning <code>React</code>, <code>JS</code> and <code>TS</code>/<code>TSX</code>.</p>
 
-<h2 align="left">Main Languages</h2>
+<h2 align="left">Main Languages and Frameworks</h2>
 <p align="left">
   <img width="30px" style="padding-right:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 <li><code>HTML</code></li>
 <li><code>CSS</code></li>
 <li><code>JavaScript</code></li>
-<li><code>TypeScript</code></li>
 <p>At the moment I'm 100% front-end "developer", but I intend to work with back-end too.</p>
 
 <h2 align="left">What I'm Looking For?</h2>
