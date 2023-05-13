@@ -20,6 +20,7 @@ function Hello() {
 <li><code>HTML</code></li>
 <li><code>CSS</code></li>
 <li><code>JavaScript</code></li>
+<li><code>React</code></li>
 <p>At the moment I'm 100% front-end "developer", but I intend to work with back-end too.</p>
 
 <h2 align="left">What I'm Looking For?</h2>
