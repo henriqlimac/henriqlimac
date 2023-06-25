@@ -8,7 +8,7 @@ function Hello() {
 ```
 
 <h2 align="left">What I'm Learning?</h2>
-<p align="left">Currently learning <code>React</code>, <code>JS</code>, <code>TS</code>/<code>TSX</code>, <code>MySQL</code> and <code>Three.js</code></p>
+<p align="left">Currently learning <code>React</code>, <code>JS</code>, <code>TS</code>/<code>TSX</code>, <code>MySQL</code>, <code>Three.js</code> and <code>Framer</code></p>
 
 <h2 align="left">Main Languages and Frameworks</h2>
 <p align="left">
