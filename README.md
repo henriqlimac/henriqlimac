@@ -21,7 +21,7 @@ function Hello() {
 <li><code>CSS</code></li>
 <li><code>JavaScript</code></li>
 <li><code>React</code></li>
-<p>At the moment I'm 100% front-end "developer", but I intend to work with back-end too.</p>
+<p>At the moment I'm 100% front-end developer, but I intend to work with back-end too.</p>
 
 <h2 align="left">What I'm Looking For?</h2>
 <p>I'm looking for a sucessful career in the future, working with a full-stack position creating websites and applications.</p>
