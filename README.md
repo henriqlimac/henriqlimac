@@ -7,7 +7,7 @@ function Hello() {
 }
 ```
 
-<h2 align="left">Main Languages, libraries and frameworks</h2>
+<h2 align="left">Main languages, libraries and frameworks</h2>
 <p align="left">
   <img width="30px" style="padding-right:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
