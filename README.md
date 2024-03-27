@@ -1,33 +1,32 @@
-<h1 align="center">Hi there 👋, my name is Henrique Lima</h1>
-<p align="center">Studying Software Dev. | ETEC Maria Cristina Medeiros's ex-student</p>
 
-```javascript
-function Hello() {
-	console.log("Hello everybody!");
-}
+<h1 align="center">Hi there 👋, my name is Henrique Lima</h1>
+
+<img align="left" width="400px" src="https://static.wikia.nocookie.net/hollowknight/images/f/ff/Cornifer.png/revision/latest?cb=20170330135557">
+
+<br>
+
+```bash
+$ npm create vite@latest
 ```
 
-<h2 align="left">Main languages, libraries and frameworks</h2>
-<p align="left">
-  <img width="30px" style="padding-right:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-</p>
-<li><code>HTML</code></li>
-<li><code>CSS</code></li>
-<li><code>JavaScript</code></li>
-<li><code>TypeScript</code></li>
-<li><code>React</code></li>
-<li><code>Prisma ORM</code></li>
-<li><code>NextJS</code></li>
-<li><code>Angular</code></li>
+```javascript
+const Hello = () => {
+	return <p>Hello world!</p>;
+}
 
-<h2 align="left">What I'm Looking For?</h2>
-<p>I'm looking for a sucessful career in the future, working with a full-stack position creating websites and applications.</p>
+export default Hello;
+```
 
-<p>My portfolio:</p> [WIP]
+<h2 align="center">😎 About me</h2>
+<p align="center">Hello, my name is Henrique Cardoso Lima, I'm 18 years old, I'm passionate about games and I'm a front-end developer. I'm currently just studying, but I intend to work in this area in the future.</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+<div align="center">
+    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,angular,prisma,mysql,github,git,githubactions,vscode,figma&perline=5"></a>
+</div>
+
+<hr>
+
+[![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/darkinni)
+[![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lima-c/)
+[![instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darkinnii/)
