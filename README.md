@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, my name is Henrique Lima</h1>
 
-<img align="left" width="400px" src="https://static.wikia.nocookie.net/hollowknight/images/f/ff/Cornifer.png/revision/latest?cb=20170330135557">
+<img align="left" width="450px" src="https://static.wikia.nocookie.net/hollowknight/images/f/ff/Cornifer.png/revision/latest?cb=20170330135557">
 
 <br>
 
@@ -11,7 +11,7 @@ $ npm create vite@latest
 
 ```javascript
 const Hello = () => {
-	return <p>Hello world!</p>;
+    return <p>Hello world!</p>;
 }
 
 export default Hello;
@@ -20,9 +20,10 @@ export default Hello;
 <h2 align="center">😎 About me</h2>
 <p align="center">Hello, my name is Henrique Cardoso Lima, I'm 18 years old, I'm passionate about games and I'm a front-end developer. I'm currently just studying, but I intend to work in this area in the future.</p>
 
+
 <h2 align="center">💻 Tech Stack</h2>
 <div align="center">
-    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,vite,angular,tailwind,mongo,prisma,mysql,github,git,githubactions,vscode,figma&perline=6"></a>
+    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,vite,angular,tailwind,mongo,prisma,mysql,github,git,githubactions,vscode,figma&perline=9"></a>
 </div>
 
 <hr>
