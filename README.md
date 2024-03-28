@@ -20,8 +20,9 @@ export default Hello;
 <h2 align="center">😎 About me</h2>
 <p align="center">Hello, my name is Henrique Cardoso Lima, I'm 18 years old, I'm passionate about games and I'm a front-end developer. I'm currently just studying, but I intend to work in this area in the future.</p>
 
-
 <h2 align="center">💻 Tech Stack</h2>
+<img align="left" width="100px" src="https://media.tenor.com/CM9I574M3C4AAAAi/halloween-hollow-knight.gif">
+<img align="right" width="100px" src="https://media.tenor.com/CM9I574M3C4AAAAi/halloween-hollow-knight.gif">
 <div align="center">
     <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,vite,angular,tailwind,mongo,prisma,mysql,github,git,githubactions,vscode,figma&perline=9"></a>
 </div>
