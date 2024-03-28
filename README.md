@@ -22,7 +22,7 @@ export default Hello;
 
 <h2 align="center">💻 Tech Stack</h2>
 <div align="center">
-    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,angular,prisma,mysql,github,git,githubactions,vscode,figma&perline=5"></a>
+    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,vite,angular,tailwind,mongo,prisma,mysql,github,git,githubactions,vscode,figma&perline=6"></a>
 </div>
 
 <hr>
